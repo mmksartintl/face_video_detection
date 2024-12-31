@@ -34,7 +34,3 @@ apt-get install libglib2.0-0
 5) streamlit run streamlit.py  (generates a lot of video frames)
 
 6) streamlit run streamlit2.py
-
-   python recognizer.py
-   
-5) streamlit run streamlit.py
