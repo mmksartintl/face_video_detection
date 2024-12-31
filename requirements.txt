@@ -1,0 +1,4 @@
+streamlit
+face_recognition
+face_recognition_models
+opencv-python
