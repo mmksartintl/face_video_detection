@@ -24,12 +24,12 @@ Steps:
 
 ImportError: libGL.so.1: cannot open shared object file: No such file or directory
 
-apt-get update && apt-get install libgl1
+- apt-get update && apt-get install libgl1
 
 
 ImportError: libgthread-2.0.so.0: cannot open shared object file: No such file or directory
 
-apt-get install libglib2.0-0
+- apt-get install libglib2.0-0
 
 5) streamlit run streamlit.py  (generates a lot of video frames)
 
