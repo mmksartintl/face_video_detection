@@ -11,6 +11,7 @@ NOTICE:
 Steps:
 
 1) run a docker image
+
    $ docker container run -d -p 8501:8501 -v $(pwd)/videorepo:/videorepo python:3.11-slim sleep infinity
 
 2) apt-get update && apt install -y cmake g++
